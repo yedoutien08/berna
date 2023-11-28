@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hcaredata.iml" filepath="$PROJECT_DIR$/.idea/Hcaredata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appSecurity/appSecurity.iml" filepath="$PROJECT_DIR$/appSecurity/appSecurity.iml" />
+    </modules>
+  </component>
+</project>
